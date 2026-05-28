@@ -1,2 +1,2 @@
 # svg-library
-my personal svg library
+my personal library
